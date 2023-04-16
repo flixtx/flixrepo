@@ -1,21 +1,23 @@
-# FlixRepo REPOSITORY
-# Versão Actual: 1.0.1
+# /r/FlixRepo Repositório oficial
+## Versão atual: 1.0.1
 
-Instruções para a adição deste repo:
+## Complementos do repositório
 
+Instruções para adicionar este repositório:
 
-<p align="left">
-  <ul>
-    <li>Ir para o Kodi gestor de ficheiros.</li>
-    <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://flixtx.github.io/flixrepo/</code> (Dar o nome de "Repositorio FlixRepo").</li>
-    <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "FlixRepo Repo", e instalar <a href="repository.flixrepo-1.0.1.zip">repository.kodiloucosbr-1.0.1.zip</a>.</li>
-    <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
-    <li>Selecionar o "Repository FlixRepo"</li>
-    
-                                       !!!Agora o resto fica á vossa escolha!!!
-  </ul>
+<img align="left" src="icon.png" width="256" hspace="48" title="FlixRepo Repository">
+
+<p align="right">
+   <ul>
+     <li>Vá para o gerenciador de arquivos Kodi.</li>
+     <li>Clique em "Adicionar fonte"</li>
+     <li>O caminho para a fonte é <code>https://flixtx.github.io/flixrepo/</code> (dê o nome "FlixRepo").</li>
+     <li>Vá para "Configurações do Kodi>Complementos"</li>
+     <li>Em Addons, instale um addon do zip. Quando a localização for solicitada, selecione "FlixRepo" e instale <a href="repository.addons4kodi-2.1.zip">repository.addons4kodi-2.1.zip</a>.</li>
+     <li>Volte para a instalação de complementos, mas desta vez, selecione "Instalar do repositório"</li>
+     <li>Selecione o "Repositório FlixRepo"</li>
+     <li>Instale os complementos necessários do repositório FlixRepo</li>
+   </ul>
 </p>
 
-## Enjoy!
+##Aproveite!
