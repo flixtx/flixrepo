@@ -1,5 +1,5 @@
 <addons>
- <addon id="plugin.video.resolverurl_player" version="1.0.0" name="[B]RESOLVER PLAYER[/B]" provider-name="OnePlay Team">
+ <addon id="plugin.video.resolverurl_player" version="1.0.0+matrix" name="[B]RESOLVER PLAYER[/B]" provider-name="OnePlay Team">
     <requires>
         <import addon="script.module.simplejson" />
         <import addon="script.module.six" />
