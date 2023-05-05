@@ -1,4 +1,44 @@
 <addons>
+ <addon id="repository.denimnani" name="DenimNani Repo" version="0.0.2" provider-name="DenimNani">
+	<extension point="xbmc.addon.repository" name="DenimNani Repo">
+	<dir>
+        <info compressed="false">https://raw.githubusercontent.com/denimnani/zips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/denimnani/zips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/denimnani/zips/master/</datadir>
+	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">DenimNani repository.</summary>
+		<description lang="en"></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+ <addon id="repository.redditreaper" name="Reddit Reaper Repository" version="2.4" provider-name="Reddit Reaper">
+    <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]Open[/B][/COLOR]Wizard Repository">
+        <dir minversion="18.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="19.0" maxversion="19.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>Reddit Reaper's Kodi Repository</summary>
+        <description>Reaper Addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://github.com/reddit-reaper/repository.redditreaper/</source>
+    </extension>
+</addon>
  <addon id="repository.addons4kodi" name="Addons4Kodi Repository" version="2.0" provider-name="A4K">
 	<extension point="xbmc.addon.repository" name="Addons4Kodi Repository">
         <dir minversion="18.0" maxversion="19.9.9">
