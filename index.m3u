@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Esportes",ESPN
-https://raw.githubusercontent.com/flixtx/flixrepo/refs/heads/main/canais/esporte/teste.strm
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://exemplo.com/espn.png" group-title="Esportes",ESPN
+plugin://plugin.video.inputstream?action=play&manifest=hls&headers=Referer=https%3A%2F%2Fembedcanaistv.com%26User-Agent%3DMozilla%2F5.0&url=https%3A%2F%2Fembmaxtv.online%2Fespn%2Findex.m3u8
+
