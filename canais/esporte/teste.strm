@@ -1,0 +1,4 @@
+plugin://plugin.video.inputstream?action=play&manifest=hls
+&headers=Referer=https://embedcanaistv.com
+|User-Agent=Mozilla/5.0
+&url=https://embmaxtv.online/espn2/index.m3u8
